@@ -1,5 +1,4 @@
 # tripadvisor-clone
-Sure! Here’s a structured README description that outlines your TripAdvisor clone project in an organized manner, taking into account that you have two HTML pages and corresponding CSS files.
 
 ---
 
@@ -57,11 +56,3 @@ To view the project locally, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify any sections to better fit your project or personal preferences!
